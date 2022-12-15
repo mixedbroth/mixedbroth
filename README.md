@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mixedbroth
-- 👀 I’m interested in codin
-- 🌱 I’m currently developing the dictionary application for my practice
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding
+- 🌱 I’m building a few stupid projects in my spare time
 - 📫 How to reach me via workingwithme0901@gmail.com
 
 <!---
